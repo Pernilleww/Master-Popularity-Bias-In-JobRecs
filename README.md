@@ -13,4 +13,4 @@ The following list describes where and how to execute the code:
 * To run the pyspark ALS experiment run the file $ALS\_pipeline.ipynb$. The pyspark ALS code is in $pyspark\_ALS.py$ and the popularity metrics for pyspark ALS is in $ metrics.py$ 
 * To run the implicit experiment, run the file $implicit\_ALS.ipynb$
 * To run the Lenskit experiment, run the file $lenskitALS.ipynb$
-
+* The data file contains all the functions for preprocessing and feature engineering of the data.
