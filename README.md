@@ -8,10 +8,9 @@ The source code is available on GitHub at
 The following list describes where and how to execute the code:
 
 
-\begin{itemize} 
-\item Due to privacy concerns, the data from Finn could not be made public before the deadline for this thesis.If the data is required, however, please contact perniww@gmail.com.
-\item The xQuAD code is located within the 'xQuAD' folder.  The $ Model.py$ and $xQuAD.py$ is taken from \cite{notebook2} and the belonging github can be found: \url{https://github.com/biasinrecsys/wsdm2021}
-    \item To run the pyspark ALS experiment run the file $ALS\_pipeline.ipynb$. The pyspark ALS code is in $pyspark\_ALS.py$ and the popularity metrics for pyspark ALS is in $ metrics.py$ 
-    \item To run the implicit experiment, run the file $implicit\_ALS.ipynb$
-    \item To run the Lenskit experiment, run the file $lenskitALS.ipynb$
-\end{itemize}
+* Due to privacy concerns, the data from Finn could not be made public before the deadline for this thesis.If the data is required, however, please contact perniww@gmail.com.
+* The xQuAD code is located within the 'xQuAD' folder.  The $ Model.py$ and $xQuAD.py$ is taken from \cite{notebook2} and the belonging github can be found: \url{https://github.com/biasinrecsys/wsdm2021}
+* To run the pyspark ALS experiment run the file $ALS\_pipeline.ipynb$. The pyspark ALS code is in $pyspark\_ALS.py$ and the popularity metrics for pyspark ALS is in $ metrics.py$ 
+* To run the implicit experiment, run the file $implicit\_ALS.ipynb$
+* To run the Lenskit experiment, run the file $lenskitALS.ipynb$
+
